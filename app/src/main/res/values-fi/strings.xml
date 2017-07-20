@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Traccar Client</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - Aloita</string>
-  <string name="shortcut_stop">Traccar - Lopeta</string>
+  <string name="app_name">Trackaris Client</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - Aloita</string>
+  <string name="shortcut_stop">Trackaris - Lopeta</string>
   <string name="settings_id_title">Laitteen tunniste</string>
   <string name="settings_address_title">Palvelimen osoite</string>
   <string name="settings_address_summary">Domain tai ip-osoite</string>
@@ -34,5 +34,5 @@
   <string name="status_send_fail">Lähetys epäonnistui</string>
   <string name="status_location_update">Sijainnin päivitys</string>
   <string name="hidden_app_name">Laitteen asetukset</string>
-  <string name="hidden_alert">Sovellus on piilotettu. Näppäile 8722227 (TRACCAR) avataksesi sovelluksen uudelleen.</string>
+  <string name="hidden_alert">Sovellus on piilotettu. Näppäile 8722227 avataksesi sovelluksen uudelleen.</string>
 </resources>

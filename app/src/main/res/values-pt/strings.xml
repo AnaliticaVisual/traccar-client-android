@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Cliente Traccar</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - Iniciar</string>
-  <string name="shortcut_stop">Traccar - Parar</string>
+  <string name="app_name">Cliente Trackaris</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - Iniciar</string>
+  <string name="shortcut_stop">Trackaris - Parar</string>
   <string name="settings_id_title">Identificador único</string>
   <string name="settings_address_title">Endereço do servidor</string>
   <string name="settings_address_summary">Nome do domínio ou endereço IP</string>
@@ -32,14 +32,14 @@
   <string name="menu_about">Sobre</string>
   <string name="menu_shortcuts">Adicionar Atalhos</string>
   <string name="menu_clear">Limpar</string>
-  <string name="about_description">Localizador GPS em tempo real para dispositivos Android. Compatível com servidor Traccar e outros sistemas de localização.</string>
-  <string name="about_license">Esta aplicação é livre e de código aberto, o código fonte é licenciado sob a licença Apache Versão 2.0 e disponível no GitHub.</string>
-  <string name="about_web">Para mais informações visite \nwww.traccar.org/client</string>
+  <string name="about_description">Localizador GPS em tempo real para dispositivos Android. Compatível com servidor Trackaris e outros sistemas de localização.</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">Serviço criado</string>
   <string name="status_service_destroy">Serviço destruído</string>
   <string name="status_send_fail">Falha no envio</string>
   <string name="status_location_update">Localização atualizada</string>
   <string name="status_connectivity_change">Mudança de conectividade</string>
   <string name="hidden_app_name">Definições do Dispositivo</string>
-  <string name="hidden_alert">A aplicação foi ocultada com sucesso. Para abrir novamente, por favor contacte 8722227 (TRACCAR).</string>
+  <string name="hidden_alert">A aplicação foi ocultada com sucesso. Para abrir novamente, por favor contacte 8722227.</string>
 </resources>

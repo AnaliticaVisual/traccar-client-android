@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Traccar Client</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - ආරම්භ කරන්න</string>
-  <string name="shortcut_stop">Traccar - නවතන්න</string>
+  <string name="app_name">Trackaris Client</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - ආරම්භ කරන්න</string>
+  <string name="shortcut_stop">Trackaris - නවතන්න</string>
   <string name="settings_id_title">උපකරණ හඳුන්වනය</string>
   <string name="settings_address_title">සර්වර් ලිපිනය</string>
   <string name="settings_address_summary">ඩොමේන් නාමය හෝ අයි පී ලිපිනය</string>
@@ -32,9 +32,9 @@
   <string name="menu_about">පිළිබඳ</string>
   <string name="menu_shortcuts">කෙටි මං එකතු කරන්න</string>
   <string name="menu_clear">හිස් කරන්න</string>
-  <string name="about_description">Real time GPS tracker for Android devices. Compatible with Traccar Server and other tracking systems.</string>
-  <string name="about_license">This application is free and open source, source code is licensed under Apache License Version 2.0 and available on GitHub.</string>
-  <string name="about_web">For more information visit\nwww.traccar.org/client</string>
+  <string name="about_description">Real time GPS tracker for Android devices. Compatible with Trackaris Server and other tracking systems.</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">සේවාව සකසන ලදි</string>
   <string name="status_service_destroy">සේවාව නසන ලදි</string>
   <string name="status_send_fail">යැවිය නොහැකිය</string>

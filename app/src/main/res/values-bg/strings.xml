@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Traccar Client</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar -Старт</string>
-  <string name="shortcut_stop">Traccar - Стоп</string>
+  <string name="app_name">Trackaris Client</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris -Старт</string>
+  <string name="shortcut_stop">Trackaris - Стоп</string>
   <string name="settings_id_title">Идентификатор</string>
   <string name="settings_address_title">Адрес на сървъра</string>
   <string name="settings_address_summary">Име на домейн или IP адрес</string>
@@ -32,14 +32,14 @@
   <string name="menu_about">About</string>
   <string name="menu_shortcuts">Добави пряк път</string>
   <string name="menu_clear">Изтрий</string>
-  <string name="about_description">Real time GPS tracker for Android devices. Compatible with Traccar Server and other tracking systems.</string>
-  <string name="about_license">This application is free and open source, source code is licensed under Apache License Version 2.0 and available on GitHub.</string>
-  <string name="about_web">For more information visit\nwww.traccar.org/client</string>
+  <string name="about_description">Real time GPS tracker for Android devices. Compatible with Trackaris Server and other tracking systems.</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">Услугата е създадена</string>
   <string name="status_service_destroy">Услугата е премахната</string>
   <string name="status_send_fail">Грешка в изпращането</string>
   <string name="status_location_update">Местоположението е обновено</string>
   <string name="status_connectivity_change">Промяна в свързването</string>
   <string name="hidden_app_name">Настройки</string>
-  <string name="hidden_alert">The app has been hidden. To open it again please dial 8722227 (TRACCAR).</string>
+  <string name="hidden_alert">The app has been hidden. To open it again please dial 8722227.</string>
 </resources>

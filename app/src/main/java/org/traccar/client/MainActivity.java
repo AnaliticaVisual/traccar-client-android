@@ -176,7 +176,7 @@ public class MainActivity extends PreferenceActivity implements OnSharedPreferen
     }
 
     private void setPreferencesEnabled(boolean enabled) {
-        findPreference(KEY_DEVICE).setEnabled(enabled);
+        //findPreference(KEY_DEVICE).setEnabled(enabled);
         findPreference(KEY_ADDRESS).setEnabled(enabled);
         findPreference(KEY_PORT).setEnabled(enabled);
         findPreference(KEY_SECURE).setEnabled(enabled);
@@ -226,8 +226,7 @@ public class MainActivity extends PreferenceActivity implements OnSharedPreferen
         PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
 
         if (!sharedPreferences.contains(KEY_DEVICE)) {
-            String id = String.valueOf(new Random().nextInt(900000000) + 100000000);
-            //String id = android.telephony.TelephonyManager.getDeviceId();
+            String id = String.valueOf(MathUtil.nextLong(new Random(), 9000000000L) + 1000000000L);
             sharedPreferences.edit().putString(KEY_DEVICE, id).commit();
             ((EditTextPreference) findPreference(KEY_DEVICE)).setText(id);
         }

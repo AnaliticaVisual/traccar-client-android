@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Máy khách Traccar</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - Bắt đầu</string>
-  <string name="shortcut_stop">Traccar - Kết thúc</string>
+  <string name="app_name">Máy khách Trackaris</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - Bắt đầu</string>
+  <string name="shortcut_stop">Trackaris - Kết thúc</string>
   <string name="settings_id_title">Định danh thiết bị</string>
   <string name="settings_address_title">Địa chỉ máy chủ</string>
   <string name="settings_address_summary">Tên miền hoặc địa chỉ IP</string>
@@ -32,14 +32,14 @@
   <string name="menu_about">About</string>
   <string name="menu_shortcuts">Thêm phím tắt</string>
   <string name="menu_clear">Xóa</string>
-  <string name="about_description">Định vị GPS thời gian thực cho thiết bị Android. Tương thích với máy chủ Traccar và các hệ thống theo dõi khác.</string>
-  <string name="about_license">Ứng dụng miễn phí và mã nguồn mở, mã nguồn được phát hành theo giấy phép Apache License phiên bản 2.0 trên GitHub.</string>
-  <string name="about_web">Thông tin chi tiết\nwww.traccar.org/client</string>
+  <string name="about_description">Định vị GPS thời gian thực cho thiết bị Android. Tương thích với máy chủ Trackaris và các hệ thống theo dõi khác.</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">Dịch vụ đã được khởi tạo</string>
   <string name="status_service_destroy">Dịch vụ đã được hủy</string>
   <string name="status_send_fail">Gửi lỗi</string>
   <string name="status_location_update">Vị trí đã được cập nhật</string>
   <string name="status_connectivity_change">Kết nối thay đổi</string>
   <string name="hidden_app_name">Cài đặt thiết bị</string>
-  <string name="hidden_alert">Ứng dụng đã được ẩn. Để mở lại xin vui lòng gọi 8722227 (TRACCAR).</string>
+  <string name="hidden_alert">Ứng dụng đã được ẩn. Để mở lại xin vui lòng gọi 8722227.</string>
 </resources>

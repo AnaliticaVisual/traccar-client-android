@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Client Traccar</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - Pornit</string>
-  <string name="shortcut_stop">Traccar - Oprit</string>
+  <string name="app_name">Client Trackaris</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - Pornit</string>
+  <string name="shortcut_stop">Trackaris - Oprit</string>
   <string name="settings_id_title">Identificare dispozitiv</string>
   <string name="settings_address_title">Adresă Server</string>
   <string name="settings_address_summary">Nume domeniu sau adresă IP</string>
@@ -32,14 +32,14 @@
   <string name="menu_about">Despre</string>
   <string name="menu_shortcuts">Adăugare scurtătură</string>
   <string name="menu_clear">Golire</string>
-  <string name="about_description">Localizare GPS în timp real pentru dispozitive Android. Compatibil cu Server Traccar si alte sisteme de localizare.</string>
-  <string name="about_license">Aplicaţia este gratuită şi open source, codul sursă este licenţiat sub Apache License Version 2.0 şi este disponibil pe GitHub.</string>
-  <string name="about_web">Pentru mai multe informaţii vizitaţi\nwww.traccar.org/client</string>
+  <string name="about_description">Localizare GPS în timp real pentru dispozitive Android. Compatibil cu Server Trackaris si alte sisteme de localizare.</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">Serviciu creat</string>
   <string name="status_service_destroy">Serviciu şters</string>
   <string name="status_send_fail">Trimitere eşuată</string>
   <string name="status_location_update">Actualizare locaţie</string>
   <string name="status_connectivity_change">Schimbare conectivitate</string>
   <string name="hidden_app_name">Setări Dispozitiv</string>
-  <string name="hidden_alert">Aplicaţia este ascunsă. Pentru deschidere vă rugam apelaţi numărul de telefon 8722227 (TRACCAR).</string>
+  <string name="hidden_alert">Aplicaţia este ascunsă. Pentru deschidere vă rugam apelaţi numărul de telefon 8722227.</string>
 </resources>

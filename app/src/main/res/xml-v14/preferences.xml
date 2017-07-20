@@ -16,7 +16,7 @@
         android:enabled="false" />
 
     <EditTextPreference
-        android:defaultValue="demo.traccar.org"
+        android:defaultValue="track.analiticavisual.consulting"
         android:key="address"
         android:summary="@string/settings_address_summary"
         android:title="@string/settings_address_title" />
@@ -38,7 +38,7 @@
         android:title="@string/settings_secure_title" />
 
     <EditTextPreference
-        android:defaultValue="300"
+        android:defaultValue="60"
         android:key="interval"
         android:numeric="integer"
         android:summary="@string/settings_interval_summary"
@@ -59,7 +59,7 @@
         android:title="@string/settings_angle_title" />
 
     <ListPreference
-        android:defaultValue="gps"
+        android:defaultValue="mixed"
         android:entries="@array/settings_provider_names"
         android:entryValues="@array/settings_provider_values"
         android:key="provider"

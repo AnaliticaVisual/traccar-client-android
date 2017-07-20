@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Traccar klijent</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - Start</string>
-  <string name="shortcut_stop">Traccar -Stop</string>
+  <string name="app_name">Trackaris klijent</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - Start</string>
+  <string name="shortcut_stop">Trackaris -Stop</string>
   <string name="settings_id_title">Identifikator uređaja</string>
   <string name="settings_address_title">Adresa poslužitelja
 </string>
@@ -28,14 +28,14 @@
   <string name="menu_about">O nama</string>
   <string name="menu_shortcuts">Dodaj prečace</string>
   <string name="menu_clear">Očisti</string>
-  <string name="about_description">GPS praćenje u stvarnom vremenu za Android uređaje. Kompatibilno sa Traccar Server i drugim sustavima za praćenje.</string>
-  <string name="about_license">Ova aplikacija je besplatna i iz otvorenog izvora, izvorni kod je zaštićen Apache Licencom verzija 2.0 i dostupna na GitHub.</string>
-  <string name="about_web">Za više informacija posjetite www.traccar.org/client</string>
+  <string name="about_description">GPS praćenje u stvarnom vremenu za Android uređaje. Kompatibilno sa Trackaris Server i drugim sustavima za praćenje.</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">Kreator usluge</string>
   <string name="status_service_destroy">Usluga uništena</string>
   <string name="status_send_fail">Greška pri slanju</string>
   <string name="status_location_update">Osvežavanje lokacije</string>
   <string name="status_connectivity_change">Promjena konekcije</string>
   <string name="hidden_app_name">Podešavanje uređaja</string>
-  <string name="hidden_alert">Aplikacija je skrivena. Za ponovno otvaranje molim nazovite  8722227 (TRACCAR).</string>
+  <string name="hidden_alert">Aplikacija je skrivena. Za ponovno otvaranje molim nazovite  8722227.</string>
 </resources>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">πελάτης Traccar</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - Εκκίνηση</string>
-  <string name="shortcut_stop">Traccar - Παύση</string>
+  <string name="app_name">πελάτης Trackaris</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - Εκκίνηση</string>
+  <string name="shortcut_stop">Trackaris - Παύση</string>
   <string name="settings_id_title">Αναγνωριστικό συσκευής</string>
   <string name="settings_address_title">Διεύθυνση εξυπηρετητή</string>
   <string name="settings_address_summary">Όνομα χώρου ή διεύθυνση δικτύου</string>
@@ -32,14 +32,14 @@
   <string name="menu_about">Περί</string>
   <string name="menu_shortcuts">Προσθήκη συντόμευσης</string>
   <string name="menu_clear">Καθαρισμός</string>
-  <string name="about_description">GPS ιχνηλάτης πραγματικού χρόνου για συσκευές Android. Συμβατός με Traccar και άλλα συστήματα ιχνηλάτησης.</string>
-  <string name="about_license">Εφαρμογή Ελεύθερου και Ανοικτού κώδικα. Ο πηγαίος κώδικας παρέχεται με άδεια Apache 2.0 και διατίθεται στο GitHub.</string>
-  <string name="about_web">Για περισσότερες πληροφορίες επισκεφτείτε\nwww.traccar.org/client</string>
+  <string name="about_description">GPS ιχνηλάτης πραγματικού χρόνου για συσκευές Android. Συμβατός με Trackaris και άλλα συστήματα ιχνηλάτησης.</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">Η υπηρεσία δημιουργήθηκε</string>
   <string name="status_service_destroy">Η υπηρεσία διαγράφηκε</string>
   <string name="status_send_fail">Αποτυχημένη αποστολή</string>
   <string name="status_location_update">Ενημέρωση τοποθεσίας</string>
   <string name="status_connectivity_change">Αλλαγή στη διασύνδεση</string>
   <string name="hidden_app_name">Ρυθμίσεις συσκευής</string>
-  <string name="hidden_alert">Η εφαρμογή αποκρύφτηκε. Για να προβληθεί καλέστε 8722227 (TRACCAR)</string>
+  <string name="hidden_alert">Η εφαρμογή αποκρύφτηκε. Για να προβληθεί καλέστε 8722227</string>
 </resources>

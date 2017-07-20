@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Traccar klient</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - Zaženi</string>
-  <string name="shortcut_stop">Traccar - Ustavi</string>
+  <string name="app_name">Trackaris klient</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - Zaženi</string>
+  <string name="shortcut_stop">Trackaris - Ustavi</string>
   <string name="settings_address_title">Naslov strežnika</string>
   <string name="settings_status_off">Zaženi</string>
   <string name="settings_status_on">Ustavi</string>

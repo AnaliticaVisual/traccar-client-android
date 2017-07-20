@@ -33,8 +33,8 @@
   <string name="menu_shortcuts">குறுக்குவழி சேர்க்க</string>
   <string name="menu_clear">அழிக்கவும்</string>
   <string name="about_description">இது ஒரு ட்ரக்கர் சர்வர் சார்ந்த ஆன்டிராயிடு நேரடி பூகோள இடம்காடி மற்றும் கண்காணிப்பு செயலி</string>
-  <string name="about_license">இந்த செயலி பயன்பாட்டை இலவசமாக மற்றும் திறந்த செயலி அபாச்சி பதிப்பு 2.0 முறை மூலம்  வழங்கப்படுகிறது, மேலும் செயலி மூல குறியீடு தரவிறக்கம் கிட்குப்பில் உள்ளது</string>
-  <string name="about_web">மேலும் தகவல்களுக்கு அணுகவும் www.traccar.org/client</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">சேவை உருவாகப்பட்டது</string>
   <string name="status_service_destroy">சேவை அழிக்கப்பட்டது</string>
   <string name="status_send_fail">தகவல் அனுப்புதல் தோல்வியுற்றது</string>

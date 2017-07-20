@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Traccar Klient</string>
-  <string name="app_logo">Traccar</string>
-  <string name="shortcut_start">Traccar - Start</string>
-  <string name="shortcut_stop">Traccar - Stopp</string>
+  <string name="app_name">Trackaris Klient</string>
+  <string name="app_logo">Trackaris</string>
+  <string name="shortcut_start">Trackaris - Start</string>
+  <string name="shortcut_stop">Trackaris - Stopp</string>
   <string name="settings_id_title">Enhetsidentifikasjon</string>
   <string name="settings_address_title">Tjeneradresse</string>
   <string name="settings_address_summary">Domenenavn eller IP-adresse</string>
@@ -32,14 +32,14 @@
   <string name="menu_about">Om</string>
   <string name="menu_shortcuts">Legg til snarvei</string>
   <string name="menu_clear">Tøm</string>
-  <string name="about_description">Sanntids GPS-sporing for Android-enheter. Kompatibel med Traccar Server og andre sporingssystemer.</string>
-  <string name="about_license">Dette programmet har fri og åpen kildekode; kildekoden er lisensiert under Apache License Version 2.0 og er tilgjengelig på GitHub.</string>
-  <string name="about_web">For mer informasjon besøk\nwww.traccar.org/client</string>
+  <string name="about_description">Sanntids GPS-sporing for Android-enheter. Kompatibel med Trackaris Server og andre sporingssystemer.</string>
+  <string name="about_license"></string>
+  <string name="about_web"></string>
   <string name="status_service_create">Tjeneste opprettet</string>
   <string name="status_service_destroy">Tjeneste ødelagt</string>
   <string name="status_send_fail">Sending mislyktes</string>
   <string name="status_location_update">Plassering oppdatert</string>
   <string name="status_connectivity_change">Tilkobling forandret</string>
   <string name="hidden_app_name">Enhetsinnstillinger</string>
-  <string name="hidden_alert">App\'en har blitt gjemt. For å åpne igjen, vennligst tast (ring) 8722227 (TRACCAR).</string>
+  <string name="hidden_alert">App\'en har blitt gjemt. For å åpne igjen, vennligst tast (ring) 8722227.</string>
 </resources>
